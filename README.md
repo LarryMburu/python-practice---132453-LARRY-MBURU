@@ -20,4 +20,10 @@ code explanations
 4. recursive_factorial_.py
 //this function works by calling itself (recursion) for as long as the conditions are met (if n == 0 or n == 1:)
 
-5. 
+5. reverse_string_function.py
+//this functions has the capability to reverse a string (write a word backwards) from its original form
+//for example, for this one its answer is 'olleh'
+
+6. sum_of_a_number.py
+//This function basically separates all the digits that make mup the  number and calculates the sum of digits of the number, 
+// eg 1234 will become 1+2+3+4 which = 10
